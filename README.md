@@ -1,6 +1,6 @@
 **B+ Programming Language (v1.0)**
 
-Welcome to B+ — a custom programming language created by Srinjon 🚀
+Welcome to B+ — a custom programming language created by dfsajh 🚀
 
 ========================
 HOW TO RUN
