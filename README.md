@@ -3,7 +3,7 @@
 Welcome to B+ — a custom programming language created by Srinjon 🚀
 
 ========================
-      HOW TO RUN
+HOW TO RUN
 ========================
 
 1. Open Command Prompt / PowerShell
@@ -13,7 +13,7 @@ Welcome to B+ — a custom programming language created by Srinjon 🚀
    BPlus.exe yourfile.bp
 
 ========================
-        EXAMPLE
+EXAMPLE
 ========================
 
 [SYSTEM] Import -- bp-dir /in
@@ -21,7 +21,7 @@ Welcome to B+ — a custom programming language created by Srinjon 🚀
 write(String("Hello World"))
 
 ========================
-       FEATURES
+FEATURES
 ========================
 
 ✔ Variables (Int, String, Dcm, Char)
@@ -34,7 +34,7 @@ write(String("Hello World"))
 ✔ System boot engine
 
 ========================
-   SYNTAX EXAMPLES
+SYNTAX EXAMPLES
 ======================
 
 Variables:
@@ -56,7 +56,7 @@ return array as x
 }
 
 ========================
-        NOTES
+NOTES
 ========================
 
 * Every program MUST start with:
@@ -69,13 +69,13 @@ return array as x
 
 ========================
 CREATOR
-=======
+========================
 
 Created by dfsajh 💻
 B+ Language Project
 
 ========================
-     FUTURE UPDATES
+FUTURE UPDATES
 =======================
 
 * Array indexing (x[0])
