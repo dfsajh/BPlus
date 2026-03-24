@@ -1,10 +1,10 @@
-B+ Programming Language (v1.0)
+**B+ Programming Language (v1.0)**
 
 Welcome to B+ — a custom programming language created by Srinjon 🚀
 
 ========================
-HOW TO RUN
-==========
+      HOW TO RUN
+========================
 
 1. Open Command Prompt / PowerShell
 2. Navigate to this folder
@@ -13,16 +13,16 @@ HOW TO RUN
    BPlus.exe yourfile.bp
 
 ========================
-EXAMPLE
-=======
+        EXAMPLE
+========================
 
 [SYSTEM] Import -- bp-dir /in
 
 write(String("Hello World"))
 
 ========================
-FEATURES
-========
+       FEATURES
+========================
 
 ✔ Variables (Int, String, Dcm, Char)
 ✔ Math operations (ad, su, mu, di)
@@ -34,8 +34,8 @@ FEATURES
 ✔ System boot engine
 
 ========================
-SYNTAX EXAMPLES
-===============
+   SYNTAX EXAMPLES
+======================
 
 Variables:
 x Int = 10
@@ -56,8 +56,8 @@ return array as x
 }
 
 ========================
-NOTES
-=====
+        NOTES
+========================
 
 * Every program MUST start with:
 
@@ -71,13 +71,15 @@ NOTES
 CREATOR
 =======
 
-Created by Srinjon 💻
+Created by dfsajh 💻
 B+ Language Project
 
 ========================
-FUTURE UPDATES
-==============
+     FUTURE UPDATES
+=======================
 
 * Array indexing (x[0])
 * Input system
 * Better error handling
+
+**You can also tell us what future updates we will give via the comments section/review section**
